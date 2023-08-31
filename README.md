@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alaa Harby
 - 👀 I’m interested in everything and anything
-- 🌱 I’m currently learning frontend development  
+- 🌱 I’m currently learning Data Science  
 - 💞️ I’m looking to collaborate on anything creative
 - 📫 How to reach me alaaharby62@gmail.com
 
